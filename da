@@ -1,0 +1,33 @@
+Jūsu uzdevums ir izstrādāt programmu, kas nolasa kolonnas ec_count vērtības un saglabā tās sarakstā kur reģions ir vienāds ar A105500.
+Jautājums – noskaidrot maksimālo vērtību kolonnai ec_count reģionam A105500.
+
+Atbilde: Jautājums 1
+Jautājums 2Nav vēl atbildētsMaksimālais punktu skaits 1,00 Atzīmēt jautājumu
+Jautājuma teksts
+Jūs izmantosiet data.CSV datni, kurā dati ir sagrupēti četrās kolonnās:Area, year, geo_count, ec_count.
+Jūsu uzdevums ir izstrādāt programmu, kas nolasa kolonnas ec_count vērtības un saglabā tās sarakstā kur reģions ir vienāds ar A105900.
+Jautājums – Noteikt kopējo nolasīto vērtību skaitu kolonnai ec_count reģionam A105900.
+
+Atbilde: Jautājums 2
+Jautājums 3Nav vēl atbildētsMaksimālais punktu skaits 1,00 Atzīmēt jautājumu
+Jautājuma teksts
+Jūs izmantosiet data.CSV datni, kurā dati ir sagrupēti četrās kolonnās:Area, year, geo_count, ec_count.
+Jūsu uzdevums ir izstrādāt programmu, kas nolasa kolonnas ec_count vērtības un saglabā tās sarakstā kur reģions ir vienāds ar A128100.
+Jautājums – Noteikt vidējo vērtību no kolonnas ec_count reģionam  A128100.
+Vērtību noapaļot līdz veselajam skaitlim un ievadīt atbildi integer formātā.
+
+Atbilde: Jautājums 3
+Jautājums 4Nav vēl atbildētsMaksimālais punktu skaits 1,00 Atzīmēt jautājumu
+Jautājuma teksts
+Jūs izmantosiet data.CSV datni, kurā dati ir sagrupēti četrās kolonnās:Area, year, geo_count, ec_count.
+Jūsu uzdevums ir izstrādāt programmu, kas nolasa kolonnas ec_count vērtības un saglabā tās sarakstā kur reģions ir vienāds ar A113300.
+Jautājums – Noteikt TOP 3 saraksta vērtības summu kolonnai ec_count reģionam A113300.
+Pimēram - saraksts = [12, 30, 20, 1, 15, 76, 23], Top 3 vērtības ir  76, 30, 23 . Rezultāts ir 129
+
+Atbilde: Jautājums 4
+Jautājums 5Nav vēl atbildētsMaksimālais punktu skaits 1,00 Atzīmēt jautājumu
+Jautājuma teksts
+Jūs izmantosiet data.CSV datni, kurā dati ir sagrupēti četrās kolonnās:Area, year, geo_count, ec_count.
+Jūsu uzdevums ir izstrādāt programmu, kas nolasa kolonnas ec_count vērtības un saglabā tās sarakstā kur reģions ir vienāds ar A132500.
+Jautājums – Noteikt katra otra saraksta elementa summu kolonnai ec_count reģionam  A132500.
+Pimēram - saraksts = [12, 30, 20, 1, 15, 76, 23], Katrs otrais elements ir 12, 20, 15, 23. Rezultāts ir 70
